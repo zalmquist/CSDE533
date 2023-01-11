@@ -104,7 +104,7 @@ Download [WPP data](https://population.un.org/wpp/Download/Files/1_Indicators%20
 
 ## Age Specific CDR 
 
-Below is R code and data for computing age specific CDR:
+Below is R code and data for computing age specific CDR (Based on [Monica Alexander's Demographic Methods course](https://github.com/MJAlexander/demographic-methods):
 
 ```{r,warning=FALSE,message=FALSE}
 library(tidyverse)
